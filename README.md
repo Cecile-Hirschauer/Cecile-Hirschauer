@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/05b81971-e884-4727-9c2d-5f39467b0e48)
 
-I am [Your Name], a full-stack developer specializing in blockchain development on Ethereum and Solana. Here’s an overview of my work, skills, and contributions.
+I am Cécile Hirschauer, a full-stack developer specializing in blockchain development on Ethereum and Solana. Here’s an overview of my work, skills, and contributions.
 
 ## 🛠️ Skills
 
